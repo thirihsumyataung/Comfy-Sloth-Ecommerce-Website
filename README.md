@@ -27,3 +27,13 @@ npm install styled-components
 
 ```
 
+- Note: We can export every components by using index.js which make neat our code. 
+
+# Older React Version 
+
+```
+"react": "^16.13.1", 
+"react-dom": "^16.13.1", 
+"react-scripts": "3.4.3"
+
+```
